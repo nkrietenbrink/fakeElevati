@@ -1,8 +1,8 @@
 {
   "stations": [
-    { "id": 1, "name": "Rauhes Haus", "state": 1, "fav": false },
-    { "id": 2, "name": "Berliner Tor", "state": 1, "fav": true},
-    { "id": 3, "name": "Bahrenfeld", "state": 2, "fav": false}
+    { "id": 1, "name": "Rauhes Haus", "state": 1, "isFav": false },
+    { "id": 2, "name": "Berliner Tor", "state": 1, "isFav": true},
+    { "id": 3, "name": "Bahrenfeld", "state": 2, "isFav": false}
   ],
   "users": [
     {"id" : 1, "prename": "Caroline", "name": "Wolf"},
