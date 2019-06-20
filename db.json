@@ -1,5 +1,5 @@
 {
-  "station": [
+  "stations": [
     { "id": 1, "name": "Rauhes Haus", "state": 1 },
     { "id": 2, "name": "Berliner Tor", "state": 1 },
     { "id": 3, "name": "Bahrenfeld", "state": 2 }
