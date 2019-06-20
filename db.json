@@ -1,8 +1,8 @@
 {
   "station": [
-    { "id": 1, "name": "Rauhes Haus" },
-    { "id": 2, "title": "Berliner Tor" },
-    { "id": 3, "title": "Bahrenfeld" }
+    { "id": 1, "name": "Rauhes Haus", "state": 1 },
+    { "id": 2, "name": "Berliner Tor", "state": 1 },
+    { "id": 3, "name": "Bahrenfeld", "state": 2 }
   ],
   "user": {
     "id" : 123,
