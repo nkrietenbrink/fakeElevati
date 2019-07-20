@@ -3,6 +3,10 @@
     { "id": 1, "name": "Rauhes Haus", "state": 1, "isFav": false, "type": "u1" },
     { "id": 2, "name": "Berliner Tor", "state": 1, "isFav": true, "type": "u2"},
     { "id": 3, "name": "Bahrenfeld", "state": 2, "isFav": false, "type": "u3"}
+    { "id": 4, "name": "Garstedt", "state": 1, "isFav": true, "type": "u1"}
+    { "id": 5, "name": "Norderstedt Mitte", "state": 2, "isFav": false, "type": "u1"}
+    { "id": 6, "name": "Barmbek", "state": 1, "isFav": false, "type": "u3"}
+    { "id": 7, "name": "Niendorf Nord", "state": 2, "isFav": false, "type": "u2"}
   ],
   "users": [
     {"id" : 1, "prename": "Caroline", "name": "Wolf"},
